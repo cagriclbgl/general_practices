@@ -1,0 +1,8 @@
+C:\Users\cagri\Desktop\C# Dosyaları\DersUygulaması\İnheritanceNedir\bin\Debug\İnheritanceNedir.exe.config
+C:\Users\cagri\Desktop\C# Dosyaları\DersUygulaması\İnheritanceNedir\bin\Debug\İnheritanceNedir.exe
+C:\Users\cagri\Desktop\C# Dosyaları\DersUygulaması\İnheritanceNedir\bin\Debug\İnheritanceNedir.pdb
+C:\Users\cagri\Desktop\C# Dosyaları\DersUygulaması\İnheritanceNedir\obj\Debug\İnheritanceNedir.csproj.AssemblyReference.cache
+C:\Users\cagri\Desktop\C# Dosyaları\DersUygulaması\İnheritanceNedir\obj\Debug\İnheritanceNedir.csproj.SuggestedBindingRedirects.cache
+C:\Users\cagri\Desktop\C# Dosyaları\DersUygulaması\İnheritanceNedir\obj\Debug\İnheritanceNedir.csproj.CoreCompileInputs.cache
+C:\Users\cagri\Desktop\C# Dosyaları\DersUygulaması\İnheritanceNedir\obj\Debug\İnheritanceNedir.exe
+C:\Users\cagri\Desktop\C# Dosyaları\DersUygulaması\İnheritanceNedir\obj\Debug\İnheritanceNedir.pdb

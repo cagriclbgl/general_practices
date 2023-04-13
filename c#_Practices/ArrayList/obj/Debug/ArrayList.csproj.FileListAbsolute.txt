@@ -1,0 +1,3 @@
+C:\Users\cagri\Desktop\C# Dosyaları\DersUygulaması\ArrayList\obj\Debug\ArrayList.csproj.AssemblyReference.cache
+C:\Users\cagri\Desktop\C# Dosyaları\DersUygulaması\ArrayList\obj\Debug\ArrayList.csproj.SuggestedBindingRedirects.cache
+C:\Users\cagri\Desktop\C# Dosyaları\DersUygulaması\ArrayList\obj\Debug\ArrayList.csproj.CoreCompileInputs.cache

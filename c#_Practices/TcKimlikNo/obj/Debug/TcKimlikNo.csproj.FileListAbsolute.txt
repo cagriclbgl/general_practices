@@ -1,0 +1,16 @@
+C:\Users\cagri\Desktop\C# Dosyaları\DersUygulaması\TcKimlikNo\bin\Debug\TcKimlikNo.exe.config
+C:\Users\cagri\Desktop\C# Dosyaları\DersUygulaması\TcKimlikNo\bin\Debug\TcKimlikNo.exe
+C:\Users\cagri\Desktop\C# Dosyaları\DersUygulaması\TcKimlikNo\bin\Debug\TcKimlikNo.pdb
+C:\Users\cagri\Desktop\C# Dosyaları\DersUygulaması\TcKimlikNo\obj\Debug\TcKimlikNo.csproj.AssemblyReference.cache
+C:\Users\cagri\Desktop\C# Dosyaları\DersUygulaması\TcKimlikNo\obj\Debug\TcKimlikNo.csproj.SuggestedBindingRedirects.cache
+C:\Users\cagri\Desktop\C# Dosyaları\DersUygulaması\TcKimlikNo\obj\Debug\TcKimlikNo.csproj.CoreCompileInputs.cache
+C:\Users\cagri\Desktop\C# Dosyaları\DersUygulaması\TcKimlikNo\obj\Debug\TcKimlikNo.exe
+C:\Users\cagri\Desktop\C# Dosyaları\DersUygulaması\TcKimlikNo\obj\Debug\TcKimlikNo.pdb
+D:\C# Dosyaları\DersUygulaması\TcKimlikNo\bin\Debug\TcKimlikNo.exe.config
+D:\C# Dosyaları\DersUygulaması\TcKimlikNo\bin\Debug\TcKimlikNo.exe
+D:\C# Dosyaları\DersUygulaması\TcKimlikNo\bin\Debug\TcKimlikNo.pdb
+D:\C# Dosyaları\DersUygulaması\TcKimlikNo\obj\Debug\TcKimlikNo.csproj.AssemblyReference.cache
+D:\C# Dosyaları\DersUygulaması\TcKimlikNo\obj\Debug\TcKimlikNo.csproj.SuggestedBindingRedirects.cache
+D:\C# Dosyaları\DersUygulaması\TcKimlikNo\obj\Debug\TcKimlikNo.csproj.CoreCompileInputs.cache
+D:\C# Dosyaları\DersUygulaması\TcKimlikNo\obj\Debug\TcKimlikNo.exe
+D:\C# Dosyaları\DersUygulaması\TcKimlikNo\obj\Debug\TcKimlikNo.pdb

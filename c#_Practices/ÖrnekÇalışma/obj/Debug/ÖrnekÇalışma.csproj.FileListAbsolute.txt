@@ -1,0 +1,8 @@
+C:\Users\cagri\Desktop\C# Dosyaları\DersUygulaması\ÖrnekÇalışma\bin\Debug\ÖrnekÇalışma.exe.config
+C:\Users\cagri\Desktop\C# Dosyaları\DersUygulaması\ÖrnekÇalışma\bin\Debug\ÖrnekÇalışma.exe
+C:\Users\cagri\Desktop\C# Dosyaları\DersUygulaması\ÖrnekÇalışma\bin\Debug\ÖrnekÇalışma.pdb
+C:\Users\cagri\Desktop\C# Dosyaları\DersUygulaması\ÖrnekÇalışma\obj\Debug\ÖrnekÇalışma.csproj.AssemblyReference.cache
+C:\Users\cagri\Desktop\C# Dosyaları\DersUygulaması\ÖrnekÇalışma\obj\Debug\ÖrnekÇalışma.csproj.SuggestedBindingRedirects.cache
+C:\Users\cagri\Desktop\C# Dosyaları\DersUygulaması\ÖrnekÇalışma\obj\Debug\ÖrnekÇalışma.csproj.CoreCompileInputs.cache
+C:\Users\cagri\Desktop\C# Dosyaları\DersUygulaması\ÖrnekÇalışma\obj\Debug\ÖrnekÇalışma.exe
+C:\Users\cagri\Desktop\C# Dosyaları\DersUygulaması\ÖrnekÇalışma\obj\Debug\ÖrnekÇalışma.pdb

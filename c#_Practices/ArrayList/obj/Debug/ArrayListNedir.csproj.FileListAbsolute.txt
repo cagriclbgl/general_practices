@@ -1,0 +1,8 @@
+C:\Users\cagri\Desktop\C# Dosyaları\DersUygulaması\ArrayList\bin\Debug\ArrayList.exe.config
+C:\Users\cagri\Desktop\C# Dosyaları\DersUygulaması\ArrayList\bin\Debug\ArrayList.exe
+C:\Users\cagri\Desktop\C# Dosyaları\DersUygulaması\ArrayList\bin\Debug\ArrayList.pdb
+C:\Users\cagri\Desktop\C# Dosyaları\DersUygulaması\ArrayList\obj\Debug\ArrayListNedir.csproj.AssemblyReference.cache
+C:\Users\cagri\Desktop\C# Dosyaları\DersUygulaması\ArrayList\obj\Debug\ArrayListNedir.csproj.SuggestedBindingRedirects.cache
+C:\Users\cagri\Desktop\C# Dosyaları\DersUygulaması\ArrayList\obj\Debug\ArrayListNedir.csproj.CoreCompileInputs.cache
+C:\Users\cagri\Desktop\C# Dosyaları\DersUygulaması\ArrayList\obj\Debug\ArrayList.exe
+C:\Users\cagri\Desktop\C# Dosyaları\DersUygulaması\ArrayList\obj\Debug\ArrayList.pdb
